@@ -1,4 +1,4 @@
-# world
+# Rick and morty API
 
 ## Project setup
 ```
